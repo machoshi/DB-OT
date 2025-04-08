@@ -2,15 +2,17 @@
 
 ## Setup
 
+Follow the steps below to construct the environment for DB-OT
+
 ### Requirements
 
-Python 3
++ Python 3
 
-PyTorch (version >= 1.4)
++ PyTorch (version >= 1.4)
 
-yaml
++ yaml
 
-higher(version == 0.2.1)
++ higher(version == 0.2.1)
 
 ## Usage
 
