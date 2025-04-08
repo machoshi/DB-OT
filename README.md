@@ -1,5 +1,7 @@
 # DB-OT
 
+This repository stores the source code for the paper "Double-Bounded Optimal Transport for Advanced Clustering and Classification" (AAAI '24), and will be updated with advanced contrastive learning applications.
+
 ## Setup
 
 Follow the steps below to construct the environment for DB-OT
