@@ -2,6 +2,13 @@
 
 ## Setup
 
+### Requirements
+
+Python 3
+PyTorch (version >= 1.4)
+yaml
+higher(version == 0.2.1)
+
 ## Usage
 
 ## Introduction
