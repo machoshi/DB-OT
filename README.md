@@ -1,6 +1,10 @@
-This folder is the code of "Double-Bounded Optimal Transport for Advanced Clustering and Classification"
+**Double-Bounded Optimal Transport for Advanced Clustering and Classification**
 
-The followings is the introduction of the files in this folder.
+## Setup
+
+## Usage
+
+## Introduction
 
 (1) "cls_freq"
 the Long Tail list argments. It's used to build the long tail data in training and testing. You don't need 
