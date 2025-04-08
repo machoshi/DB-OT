@@ -1,4 +1,4 @@
-**Double-Bounded Optimal Transport for Advanced Clustering and Classification**
+# Double-Bounded Optimal Transport for Advanced Clustering and Classification
 
 ## Setup
 
