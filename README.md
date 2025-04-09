@@ -1,10 +1,10 @@
-# DB-OT
+# Double-Bounded Optimal Transport for Advanced Clustering and Classification
 
-This repository stores the source code for the paper "Double-Bounded Optimal Transport for Advanced Clustering and Classification" (AAAI '24), and will be updated with advanced contrastive learning applications.
+This code provides a PyTorch implementation and pretrained models for DB-OT, and will be updated with advanced contrastive learning applications.
 
 ## Setup
 
-Follow the steps below to construct the environment for DB-OT
+Follow the steps below to construct the environment for DB-OT.
 
 ### Requirements
 
@@ -73,3 +73,17 @@ You can change the inference function at 723-726 line.
 q at 718 line is the delta of bounds.
 
 You can also change the number of iteration at 722 to try different inference itreation.
+
+## Citation
+If you find this repository useful in your research, please cite:
+```
+@inproceedings{shi2024double,
+  title={Double-bounded optimal transport for advanced clustering and classification},
+  author={Shi, Liangliang and Shen, Zhaoqi and Yan, Junchi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={13},
+  pages={14982--14990},
+  year={2024}
+}
+```
